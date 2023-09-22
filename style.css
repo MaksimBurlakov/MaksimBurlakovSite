@@ -1,7 +1,7 @@
 body {
 background-color:coral
 }
-
+button {background-color:red;}
 header {
 height: 80px;
 background-color:#6c63ff;
@@ -16,5 +16,5 @@ color:blue;
 text-align: center;
 font-size: 44px;
 }
-
+a {color:white;}
 
