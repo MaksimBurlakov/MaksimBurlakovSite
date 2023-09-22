@@ -1,0 +1,20 @@
+body {
+background-color:coral
+}
+
+header {
+height: 80px;
+background-color:#6c63ff;
+}
+
+footer {
+height: 80px;
+background-color:#6c63ff;
+}
+h1{
+color:blue;
+text-align: center;
+font-size: 44px;
+}
+
+
